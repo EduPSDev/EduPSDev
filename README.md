@@ -8,10 +8,10 @@ Meu foco é unir a visão prática de atendimento e dores reais de negócio ao d
  
 ### Projetos em Destaque
  
-* **[RadarLead](https://github.com/EduPsDev/radarlead)** *(Em desenvolvimento)*
+* **[RadarLead](https://github.com/jdrmprofissional08-hue/RadarLead)** *(Em desenvolvimento)*
   Sistema de prospecção comercial B2B estruturado com banco de dados relacional em **PostgreSQL** (+8 tabelas) e aplicação em **Python (POO)**. Integra dados abertos de CNPJ da Receita Federal com consultas em tempo real via **APIs REST (BrasilAPI)**, aplicando limpeza de JSON e algoritmos de recomendação para pontuar leads de 0 a 100.
  
-* **[Bot de Análise Financeira e Compras](https://github.com/EduPsDev/bot-analise-financeira)**
+* **[Bot de Análise Financeira e Compras](https://github.com/ArthurLJardim/An-lise-financeira-)**
   Solução automatizada em **Python** para leitura, extração e categorização de balancetes, DREs e planilhas financeiras (folha, energia, serviços, mercadorias, entre outros), comparando gastos reais e orçados para identificar desperdícios e apoiar decisões de economia.
  
 ---
